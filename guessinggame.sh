@@ -1,1 +1,3 @@
-input "Guess Number of files in the GitHub Repositry"
+echo "Please Guess Number of files in my Github Repository"
+read number
+echo "You entered:$number"
